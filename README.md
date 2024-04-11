@@ -12,10 +12,14 @@ We asked the voice assistant to display the information regarding IPL.
 
 
 
+
+
 b.	Displaying News
 We asked the voice assistant to display the latest news of the day.
 
  ![image](https://github.com/simransahay19/Desktop-voice-assistant/assets/97499721/d4bd1697-5d28-4899-ab65-649d8489cb86)
+
+
 
 
 
@@ -27,6 +31,8 @@ We asked the voice assistant to tell me a funny joke.
 
 
 
+
+
 d.	Opening YouTube
 We asked the voice assistant to play believer song on YouTube.
 
@@ -34,10 +40,14 @@ We asked the voice assistant to play believer song on YouTube.
 
 
 
+
+
 e.	Displaying some Interesting facts
 We asked the voice assistant to display some of the unknown interesting facts.
 
  ![image](https://github.com/simransahay19/Desktop-voice-assistant/assets/97499721/08fc9018-1782-436d-bfe7-fdd96569fd5e)
+
+
 
 
 f.	Telling us the Weather
